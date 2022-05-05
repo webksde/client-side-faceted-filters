@@ -1,0 +1,25 @@
+{
+    "name": "client-side-faceted-filters",
+    "version": "0.0.1",
+    "description": "Provides a very simple data-attributes based client-side JavaScript Faceted Filter & Search functionality.",
+    "main": "index.js",
+    "scripts": {
+        "test": "exit 0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/webksde/client-side-faceted-filters.git"
+    },
+    "keywords": [
+        "JavaScript",
+        "Faceted",
+        "Filters",
+        "Search"
+    ],
+    "author": "webks GmbH",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/webksde/client-side-faceted-filters/issues"
+    },
+    "homepage": "https://github.com/webksde/client-side-faceted-filters#readme"
+}
